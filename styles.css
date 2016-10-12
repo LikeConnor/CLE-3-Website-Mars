@@ -8,15 +8,14 @@
 	box-sizing: border-box;
 }
 
-
-
 html{
-	font: normal 50px sans-serif;
+	font: normal 16px sans-serif;
 	color: #555;
 }
 
-
-
+ul, nav{
+	list-style: none;
+}
 
 a{
 	text-decoration: none;
